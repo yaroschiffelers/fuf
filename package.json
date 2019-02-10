@@ -1,6 +1,6 @@
 {
   "name": "@yaroschiffelers/fuf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a collection of functional utility functions ",
   "main": "index.js",
   "scripts": {

@@ -58,6 +58,7 @@ Temporary Items
 /idea/**
 !/idea/public
 !/graveyard/README.md**
+.idea 
 
 # Environment variables 
 .env

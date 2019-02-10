@@ -1,5 +1,5 @@
 {
-  "name": "fuf",
+  "name": "@yaroschiffelers/fuf",
   "version": "1.0.0",
   "description": "a collection of functional utility functions ",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yaroschiffelers/fuf/issues"
   },
-  "homepage": "https://github.com/yaroschiffelers/fuf#readme"
+  "homepage": "https://github.com/yaroschiffelers/fuf#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }

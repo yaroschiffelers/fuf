@@ -1,0 +1,23 @@
+{
+  "name": "fuf",
+  "version": "1.0.0",
+  "description": "a collection of functional utility functions ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroschiffelers/fuf.git"
+  },
+  "keywords": [
+    "functional",
+    "utility"
+  ],
+  "author": "Yaro Schiffelers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaroschiffelers/fuf/issues"
+  },
+  "homepage": "https://github.com/yaroschiffelers/fuf#readme"
+}

@@ -1,4 +1,4 @@
-# FUF - Functional Utility Functions
+# FU - Functional Utilities
 
 > A collection of utility functions from the realm of functional programming. 
 
